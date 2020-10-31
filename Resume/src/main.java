@@ -6,7 +6,6 @@ public class main {
 		WorkExperience r = new WorkExperience();
 		Awards t = new Awards();
 		cgpa q = new cgpa();
-		Exam e = new Exam();
 
 		System.out.println("BIODATA");
 		p.PrintName();
